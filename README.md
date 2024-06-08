@@ -2,13 +2,15 @@
 
 Contexto do Projeto
 
-	A poluição no marinha vem se agravando a cada dia e por consequência afetando o ecossistema de inúmeros seres vivos, esse problema tem inúmeros causadores mas um dos principais é o descarte incorreto de lixos em oceanos, rios e praias.
+A poluição no marinha vem se agravando a cada dia e por consequência afetando o ecossistema de inúmeros seres vivos, esse problema tem inúmeros causadores mas um dos principais é o descarte incorreto de lixos em oceanos, rios e praias.
 
 
 Proposta de Solução
 
-	Pensando neste principal problema, desenvolvemos a ideia do projeto chamado CleanWave, que consiste na forma de educar e conscientizar as pessoas que frequentam as praias a descartar corretamente os resíduos gerados no local através de recompensas.
-	O projeto roda em torno de lixeiras inteligentes que seriam dispostas em torno das praias no qual o usuário após se cadastrar no App poderia utilizar estas lixeiras para descartar o lixo e assim ganhar pontos no App. Futuramente após juntar uma pontuação o usuário poderia trocar seus pontos por um recompensa (Ex:Pastel, Sorvete, Cerveja…)
+Pensando neste principal problema, desenvolvemos a ideia do projeto chamado CleanWave, que consiste na forma de educar e conscientizar as pessoas que frequentam as praias a descartar corretamente os resíduos gerados no local através de recompensas.
+
+O projeto roda em torno de lixeiras inteligentes que seriam dispostas em torno das praias no qual o usuário após se cadastrar no App poderia utilizar estas lixeiras para descartar o lixo e assim ganhar pontos no App. Futuramente após juntar uma pontuação o usuário poderia
+trocar seus pontos por um recompensa (Ex:Pastel, Sorvete, Cerveja…)
 
 Objetivos a serem alcançados
 
