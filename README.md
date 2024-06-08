@@ -32,3 +32,7 @@ trocar seus pontos por um recompensa (Ex:Pastel, Sorvete, Cerveja…)
 - Codigo de Barras: '7891000045318', Pontos: 15, Descrição: 'Garrafa de Cerveja'
 
 - Codigo de Barras: '7891910000197', Pontos: 5, Descrição: 'Garrafa de Água'
+
+
+# Link Azure
+ - https://cleanwave-gs.azurewebsites.net/login
